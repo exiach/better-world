@@ -1,3 +1,42 @@
 <resources>
     <string name="app_name">BetterWorld</string>
+
+    <string name="air_pollution">Air pollution</string>
+    <string name="animals">Animals</string>
+    <string name="env_pollution">Pollution</string>
+    <string name="orphan">Orphan</string>
+    <string name="poverty">Poverty</string>
+
+    <string name="air_pollution_description">Air pollution is the introduction of particulates, biological molecules, or other harmful materials into Earths atmosphere, causing diseases, death to humans, damage to other living organisms such as animals and food crops, or the natural or built environment. Air pollution may come from anthropogenic or natural sources.</string>
+    <string name="animals_description">Random source animals are dogs and cats that are obtained through theft, false pretenses such as "free to good home" ads or from pounds and shelters in a practice called pound seizure. Class “B” dealers and their middleman cohorts, called bunchers, acquire the animals and sell them for hundreds of dollars to be tortured in research facilities</string>
+    <string name="env_pollution_description">Pollution is the introduction of contaminants into the natural environment that cause adverse change. Pollution can take the form of chemical substances or energy, such as noise, heat or light. Pollutants, the components of pollution, can be either foreign substances/energies or naturally occurring contaminants. Pollution is often classed as point source or nonpoint source pollution.</string>
+    <string name="orphan_description">A child who has lost both parents through death, or, less commonly, one parent, It is estimated that 132 million children worldwide have lost at least one parent (UNICEF)</string>
+    <string name="poverty_description">Poverty is general scarcity, dearth, or the state of one who lacks a certain amount of material possessions or money. It is a multifaceted concept, which includes social, economic, and political elements.</string>
+
+    <string name="air_pollution_tip_one">Plant trees! They provide shade, clean air, mask noise and need much less water than lawns.</string>
+    <string name="air_pollution_tip_two">Dont smoke or allow smoking in your home. It is the single best thing you can do.</string>
+    <string name="air_pollution_tip_three">Reducing dependence on central air conditioning with fans and open windows when possible</string>
+    <string name="animals_tip_one">Consider adopting a pet</string>
+    <string name="animals_tip_two">Give love your pets</string>
+    <string name="animals_tip_three">You can to help to an animal shelter</string>
+    <string name="env_pollution_tip_one">No plastic bags used</string>
+    <string name="env_pollution_tip_two">Create a backyard compost pile or invest in a composter. Composting is natures way of recycling. It converts plant waste into a rich soil additive</string>
+    <string name="env_pollution_tip_three">Recycling Waste</string>
+    <string name="orphan_tip_one">Consider adopting a child</string>
+    <string name="orphan_tip_two">Eat Together and play with their</string>
+    <string name="orphan_tip_three">Donate To Local Orgs</string>
+    <string name="poverty_tip_one">Donations to your local and global organizations are incredibly important</string>
+    <string name="poverty_tip_two">Try to help them find a place like a shelter or a soup kitchen.</string>
+    <string name="poverty_tip_three">Create an organized group within the community to help many people rather than working with a few individuals.</string>
+
+    <string name="air_pollution_link_one">http://environment.nationalgeographic.com/environment/global-warming</string>
+    <string name="air_pollution_link_two">www.greenschoolsalliance.org/</string>
+    <string name="animals_link_one">www.petprotector.org/</string>
+    <string name="animals_link_two">www.sttiggywinkles.org.uk/</string>
+    <string name="env_pollution_link_one">https://350.org/</string>
+    <string name="env_pollution_link_two">www.world.org/weo/pollution</string>
+    <string name="orphan_link_one">www.unicef.org/</string>
+    <string name="orphan_link_two">www.ciudaddelnino.org/</string>
+    <string name="poverty_link_one">www.payitforward.foundation/</string>
+    <string name="poverty_link_two">www.streetinvest.org/</string>
 </resources>
